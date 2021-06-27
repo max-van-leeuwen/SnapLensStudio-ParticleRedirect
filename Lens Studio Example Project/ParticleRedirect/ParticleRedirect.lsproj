@@ -1,0 +1,1092 @@
+{
+    "lens_id": "",
+    "document_id": "_ZN3Mh8m0DZuZEkkCFPq",
+    "original_document_id": "Q-KFnoFU8RVgSui26tDg",
+    "version": "28",
+    "lastChanged": "1624800707030",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "true",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "0",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "0",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Textures",
+                        "ExampleSpawnMap_mask"
+                    ],
+                    [
+                        "Textures",
+                        "ExampleSpawnMap_redirect"
+                    ],
+                    [
+                        "VFX",
+                        "VFX High Particle Count Example"
+                    ],
+                    [
+                        "VFX",
+                        "VFX Particle Kill Method (blue)"
+                    ],
+                    [
+                        "VFX",
+                        "VFX Particle Redirect (red)"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1517446348227994:84813"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "hints": [
+                ""
+            ],
+            "lens": "Particle Redirect",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "1624750496642215:640540"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1624571266248495:421741",
+                    "name": "Files\/File17",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1624571266378183:421812",
+                    "name": "Files\/File19",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1624571266448595:421835",
+                    "name": "Files\/File21",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1624571266496229:421850",
+                    "name": "Files\/File23",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1624571266573712:421869",
+                    "name": "Files\/File25.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1624746797092436:154356",
+                    "name": "Files\/File28.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1624749281547861:428788",
+                    "name": "Files\/File32",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1624749281610088:428847",
+                    "name": "Files\/File34",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1624749281646588:428866",
+                    "name": "Files\/File36",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1624749281671474:428885",
+                    "name": "Files\/File38",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1624749281706280:428904",
+                    "name": "Files\/File40.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1624749337143915:438599",
+                    "name": "Files\/File41.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1624750496642215:640540",
+                    "name": "Files\/File45",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1624750496670495:640565",
+                    "name": "Files\/File47",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1624750496717465:640590",
+                    "name": "Files\/File49",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "29",
+                    "uid": "1624750496756048:640619",
+                    "name": "Files\/File51",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1624750496801182:640644",
+                    "name": "Files\/File53.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1624571268552809:422257",
+                "1": "1624749364226130:442486",
+                "2": "1624750311355688:611537",
+                "3": "1624750468409986:636952",
+                "4": "1624750484862452:639016"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "17",
+                    "v": "Files\/File17"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.lsvfx"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.lsmat"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.lsmat"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.lsmat"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.js"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.png"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.png"
+                },
+                {
+                    "k": "32",
+                    "v": "Files\/File32"
+                },
+                {
+                    "k": "33",
+                    "v": "Files\/File33.lsvfx"
+                },
+                {
+                    "k": "34",
+                    "v": "Files\/File34"
+                },
+                {
+                    "k": "35",
+                    "v": "Files\/File35.lsmat"
+                },
+                {
+                    "k": "36",
+                    "v": "Files\/File36"
+                },
+                {
+                    "k": "37",
+                    "v": "Files\/File37.lsmat"
+                },
+                {
+                    "k": "38",
+                    "v": "Files\/File38"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39.lsmat"
+                },
+                {
+                    "k": "40",
+                    "v": "Files\/File40.js"
+                },
+                {
+                    "k": "41",
+                    "v": "Files\/File41.pvr"
+                },
+                {
+                    "k": "42",
+                    "v": "Files\/File42.png"
+                },
+                {
+                    "k": "43",
+                    "v": "Files\/File43.png"
+                },
+                {
+                    "k": "44",
+                    "v": "Files\/File44.pvr"
+                },
+                {
+                    "k": "45",
+                    "v": "Files\/File45"
+                },
+                {
+                    "k": "46",
+                    "v": "Files\/File46.lsvfx"
+                },
+                {
+                    "k": "47",
+                    "v": "Files\/File47"
+                },
+                {
+                    "k": "48",
+                    "v": "Files\/File48.lsmat"
+                },
+                {
+                    "k": "49",
+                    "v": "Files\/File49"
+                },
+                {
+                    "k": "50",
+                    "v": "Files\/File50.lsmat"
+                },
+                {
+                    "k": "51",
+                    "v": "Files\/File51"
+                },
+                {
+                    "k": "52",
+                    "v": "Files\/File52.lsmat"
+                },
+                {
+                    "k": "53",
+                    "v": "Files\/File53.js"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "982",
+                        "v": "VFX\/VFX Particle Redirect (red).lsvfx"
+                    },
+                    {
+                        "k": "983",
+                        "v": "Textures\/ExampleSpawnMap_redirect.png"
+                    },
+                    {
+                        "k": "984",
+                        "v": "VFX\/VFX Particle Kill Method (blue).lsvfx"
+                    },
+                    {
+                        "k": "985",
+                        "v": "Textures\/ExampleSpawnMap_mask.png"
+                    },
+                    {
+                        "k": "986",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "987",
+                        "v": "VFX"
+                    },
+                    {
+                        "k": "989",
+                        "v": "VFX\/VFX High Particle Count Example.lsvfx"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "980",
+                        "v": "58589d09bffe28d54e8d8931ddac20e1"
+                    },
+                    {
+                        "k": "981",
+                        "v": "721025060d95022b6a79309684b964bf"
+                    },
+                    {
+                        "k": "982",
+                        "v": "80181645deb18903eb202ae5d3d7800b"
+                    },
+                    {
+                        "k": "983",
+                        "v": "611f6af27f9abccdb3057964e691e935"
+                    },
+                    {
+                        "k": "984",
+                        "v": "d0b57f69b39af16c30c224bbf30d2288"
+                    },
+                    {
+                        "k": "985",
+                        "v": "20e73f0827d4f97d644a112996d81a88"
+                    },
+                    {
+                        "k": "989",
+                        "v": "5c47bf8de4e2a9946d350a802d2e873f"
+                    },
+                    {
+                        "k": "991",
+                        "v": "bc309b2172cafab4c9d77cc33f3d4445"
+                    },
+                    {
+                        "k": "992",
+                        "v": "cb7f247c06288899eb3357c6bd7be991"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2021-06-27T13:28:34",
+                        "name": "Public",
+                        "hash": "cacb33e38684886e95fe084c406b7fae",
+                        "children": [
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-06-27T13:28:34",
+                                "name": "Textures",
+                                "hash": "5db537bd8b289a3035fded7358c0616f",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-06-27T01:02:51",
+                                        "name": "ExampleSpawnMap_redirect.png",
+                                        "hash": "611f6af27f9abccdb3057964e691e935",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-06-24T23:42:04",
+                                        "name": "ExampleSpawnMap_mask.png",
+                                        "hash": "20e73f0827d4f97d644a112996d81a88",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-06-27T01:17:33",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-06-27T15:31:45",
+                                "name": "VFX",
+                                "hash": "91794c1a307631e47d792dc9720ec394",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-06-27T15:31:45",
+                                        "name": "VFX High Particle Count Example.lsvfx",
+                                        "hash": "3a1586b49a9f3e8371721b1fe55a9abc",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-06-27T15:31:45",
+                                        "name": "VFX Particle Kill Method (blue).lsvfx",
+                                        "hash": "d0b57f69b39af16c30c224bbf30d2288",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-06-27T15:31:45",
+                                        "name": "VFX Particle Redirect (red).lsvfx",
+                                        "hash": "80181645deb18903eb202ae5d3d7800b",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-06-27T01:17:41",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-06-07T16:37:36",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "986",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Render Target",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1:1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": {
+                                    "resourceInfoExportKey": {
+                                        "RenderTargetRole": "1"
+                                    }
+                                }
+                            },
+                            {
+                                "name": "Device Camera Texture",
+                                "type": "1",
+                                "subtype": "3",
+                                "resourceId": "2",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "2:2",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "ExampleSpawnMap_redirect",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "19",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1624746797092436:154356",
+                                "fileId": "28",
+                                "originalId": "29",
+                                "publicId": "983",
+                                "source": "\/Users\/gsmac31\/Desktop\/ParticleRedirection\/v001\/ExampleSpawnMap_redirect.png",
+                                "additional": {
+                                    "originHash": "611f6af27f9abccdb3057964e691e935"
+                                }
+                            },
+                            {
+                                "name": "ExampleSpawnMap_mask",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "25",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1624749337143915:438599",
+                                "fileId": "41",
+                                "originalId": "42",
+                                "publicId": "985",
+                                "source": "\/Users\/gsmac31\/Desktop\/ParticleRedirection\/v001\/ExampleSpawnMap.png",
+                                "additional": {
+                                    "originHash": "20e73f0827d4f97d644a112996d81a88"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "VFX",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "987",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "VFX Particle Redirect (red)",
+                                "type": "23",
+                                "subtype": "0",
+                                "resourceId": "14",
+                                "dependency": "2",
+                                "hidden": "false",
+                                "uid": "1624571266248495:421741",
+                                "fileId": "17",
+                                "originalId": "18",
+                                "publicId": "982",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "System 39",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "1",
+                                        "hidden": "true",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": {
+                                            "system_id": "39"
+                                        },
+                                        "resources": [
+                                            {
+                                                "name": "Rendering",
+                                                "type": "2",
+                                                "subtype": "0",
+                                                "resourceId": "15",
+                                                "dependency": "1",
+                                                "hidden": "true",
+                                                "uid": "1624571266378183:421812",
+                                                "fileId": "19",
+                                                "originalId": "20",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "Feedback",
+                                                "type": "2",
+                                                "subtype": "0",
+                                                "resourceId": "16",
+                                                "dependency": "1",
+                                                "hidden": "true",
+                                                "uid": "1624571266448595:421835",
+                                                "fileId": "21",
+                                                "originalId": "22",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "Simulation",
+                                                "type": "2",
+                                                "subtype": "0",
+                                                "resourceId": "17",
+                                                "dependency": "1",
+                                                "hidden": "true",
+                                                "uid": "1624571266496229:421850",
+                                                "fileId": "23",
+                                                "originalId": "24",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "Managing",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "18",
+                                                "dependency": "1",
+                                                "hidden": "true",
+                                                "uid": "1624571266573712:421869",
+                                                "fileId": "25",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "\/private\/var\/folders\/by\/0dhhk3j13j560jxj8p3x4rzr0000gn\/T\/Lens Studio-miDHtR\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "VFX Particle Kill Method (blue)",
+                                "type": "23",
+                                "subtype": "0",
+                                "resourceId": "20",
+                                "dependency": "2",
+                                "hidden": "false",
+                                "uid": "1624749281547861:428788",
+                                "fileId": "32",
+                                "originalId": "33",
+                                "publicId": "984",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "System 39",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "1",
+                                        "hidden": "true",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": {
+                                            "system_id": "39"
+                                        },
+                                        "resources": [
+                                            {
+                                                "name": "Rendering",
+                                                "type": "2",
+                                                "subtype": "0",
+                                                "resourceId": "21",
+                                                "dependency": "1",
+                                                "hidden": "true",
+                                                "uid": "1624749281610088:428847",
+                                                "fileId": "34",
+                                                "originalId": "35",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "Feedback",
+                                                "type": "2",
+                                                "subtype": "0",
+                                                "resourceId": "22",
+                                                "dependency": "1",
+                                                "hidden": "true",
+                                                "uid": "1624749281646588:428866",
+                                                "fileId": "36",
+                                                "originalId": "37",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "Simulation",
+                                                "type": "2",
+                                                "subtype": "0",
+                                                "resourceId": "23",
+                                                "dependency": "1",
+                                                "hidden": "true",
+                                                "uid": "1624749281671474:428885",
+                                                "fileId": "38",
+                                                "originalId": "39",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "Managing",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "24",
+                                                "dependency": "1",
+                                                "hidden": "true",
+                                                "uid": "1624749281706280:428904",
+                                                "fileId": "40",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "\/private\/var\/folders\/by\/0dhhk3j13j560jxj8p3x4rzr0000gn\/T\/Lens Studio-LarbLw\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "VFX High Particle Count Example",
+                                "type": "23",
+                                "subtype": "0",
+                                "resourceId": "26",
+                                "dependency": "2",
+                                "hidden": "false",
+                                "uid": "1624750496642215:640540",
+                                "fileId": "45",
+                                "originalId": "46",
+                                "publicId": "989",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "System 39",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "1",
+                                        "hidden": "true",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "Rendering",
+                                                "type": "2",
+                                                "subtype": "0",
+                                                "resourceId": "27",
+                                                "dependency": "1",
+                                                "hidden": "true",
+                                                "uid": "1624750496670495:640565",
+                                                "fileId": "47",
+                                                "originalId": "48",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "Feedback",
+                                                "type": "2",
+                                                "subtype": "0",
+                                                "resourceId": "28",
+                                                "dependency": "1",
+                                                "hidden": "true",
+                                                "uid": "1624750496717465:640590",
+                                                "fileId": "49",
+                                                "originalId": "50",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "Simulation",
+                                                "type": "2",
+                                                "subtype": "0",
+                                                "resourceId": "29",
+                                                "dependency": "1",
+                                                "hidden": "true",
+                                                "uid": "1624750496756048:640619",
+                                                "fileId": "51",
+                                                "originalId": "52",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "Managing",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "30",
+                                                "dependency": "1",
+                                                "hidden": "true",
+                                                "uid": "1624750496801182:640644",
+                                                "fileId": "53",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "\/private\/var\/folders\/by\/0dhhk3j13j560jxj8p3x4rzr0000gn\/T\/Lens Studio-miDHtR\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "101:100"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        },
+        "Compression::IController": {
+            "compression_info": [
+                {
+                    "k": "1624749337143915:438599",
+                    "v": {
+                        "infos": {
+                            "originalSize": "13292",
+                            "compressedSize": "4220",
+                            "originalRAM": "262144",
+                            "compressedRAM": "32768",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "43",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "20e73f0827d4f97d644a112996d81a88",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "44"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "AssetLibController": {
+            "itemUidToID": ""
+        }
+    }
+}
