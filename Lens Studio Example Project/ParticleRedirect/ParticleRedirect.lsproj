@@ -3,7 +3,7 @@
     "document_id": "_ZN3Mh8m0DZuZEkkCFPq",
     "original_document_id": "Q-KFnoFU8RVgSui26tDg",
     "version": "28",
-    "lastChanged": "1624800707030",
+    "lastChanged": "1625074843814",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -62,6 +62,8 @@
             ]
         },
         "MetaInfoUIComponent": {
+            "icon_hash": "56814dbefc6c60009fe6066406087653",
+            "icon_path": "icon.png",
             "hints": [
                 ""
             ],
@@ -87,7 +89,7 @@
             "preview_videos_project_config": {
                 "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
                 "back_preview_is_favorite": "false",
-                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_id": "bundle:Preview\/Videos\/Smile Person 1.webm",
                 "front_preview_is_favorite": "false",
                 "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
                 "spectacles_preview_is_favorite": "false"
@@ -518,7 +520,7 @@
                     },
                     {
                         "k": "982",
-                        "v": "80181645deb18903eb202ae5d3d7800b"
+                        "v": "7fc8bc3c5cf58d0524aae322b4b6ac03"
                     },
                     {
                         "k": "983",
@@ -526,7 +528,7 @@
                     },
                     {
                         "k": "984",
-                        "v": "d0b57f69b39af16c30c224bbf30d2288"
+                        "v": "925b9140f18e6af0bd5447ac70e2a476"
                     },
                     {
                         "k": "985",
@@ -534,7 +536,7 @@
                     },
                     {
                         "k": "989",
-                        "v": "5c47bf8de4e2a9946d350a802d2e873f"
+                        "v": "24a57b6346aefa030715e014233a7dc7"
                     },
                     {
                         "k": "991",
@@ -550,7 +552,7 @@
                         "isFolder": "true",
                         "lastModified": "2021-06-27T13:28:34",
                         "name": "Public",
-                        "hash": "cacb33e38684886e95fe084c406b7fae",
+                        "hash": "9c7ebfadd64a6bc587a8d39eedad7b3a",
                         "children": [
                             {
                                 "isFolder": "true",
@@ -583,29 +585,29 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2021-06-27T15:31:45",
+                                "lastModified": "2021-06-30T19:36:50",
                                 "name": "VFX",
-                                "hash": "91794c1a307631e47d792dc9720ec394",
+                                "hash": "ed8d7f9a65b20377d4ef3c19c8af62bf",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2021-06-27T15:31:45",
+                                        "lastModified": "2021-06-30T19:36:50",
                                         "name": "VFX High Particle Count Example.lsvfx",
-                                        "hash": "3a1586b49a9f3e8371721b1fe55a9abc",
+                                        "hash": "24a57b6346aefa030715e014233a7dc7",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2021-06-27T15:31:45",
+                                        "lastModified": "2021-06-30T19:35:10",
                                         "name": "VFX Particle Kill Method (blue).lsvfx",
-                                        "hash": "d0b57f69b39af16c30c224bbf30d2288",
+                                        "hash": "925b9140f18e6af0bd5447ac70e2a476",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2021-06-27T15:31:45",
+                                        "lastModified": "2021-06-30T19:35:16",
                                         "name": "VFX Particle Redirect (red).lsvfx",
-                                        "hash": "80181645deb18903eb202ae5d3d7800b",
+                                        "hash": "7fc8bc3c5cf58d0524aae322b4b6ac03",
                                         "children": ""
                                     },
                                     {
@@ -1011,11 +1013,7 @@
             }
         },
         "InspectorController": {
-            "selection": {
-                "objects": [
-                    "101:100"
-                ]
-            }
+            "selection": ""
         },
         "EffectsController": {
             "1": "",
