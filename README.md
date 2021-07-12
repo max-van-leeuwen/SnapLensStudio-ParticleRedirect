@@ -10,7 +10,6 @@ A python script that generates data for Lens Studio's VFX Editor. It redirects p
 - When you would need this:
 
 If you want particles to spawn within a texture, or if you want to store those positions in the particles' attributes so they can move from one to the next.
-It could also be useful in the Material Editor, like when instancing to custom positions!
 
 <br/><br/>
 - What it does:
