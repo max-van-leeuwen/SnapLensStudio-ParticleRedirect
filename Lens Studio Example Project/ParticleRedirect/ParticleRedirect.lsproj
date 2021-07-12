@@ -3,7 +3,7 @@
     "document_id": "_ZN3Mh8m0DZuZEkkCFPq",
     "original_document_id": "Q-KFnoFU8RVgSui26tDg",
     "version": "28",
-    "lastChanged": "1626044751459",
+    "lastChanged": "1626092268003",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -32,6 +32,9 @@
             "collapsedList": [
                 [
                     [
+                        "Textures"
+                    ],
+                    [
                         "Textures",
                         "1"
                     ],
@@ -52,9 +55,11 @@
                         "Stream"
                     ],
                     [
+                        "VFX Examples"
+                    ],
+                    [
                         "VFX Examples",
-                        "Extrude",
-                        "VFX Particle Extrude"
+                        "Morph"
                     ],
                     [
                         "VFX Examples",
@@ -63,13 +68,17 @@
                     ],
                     [
                         "VFX Examples",
-                        "Rate Comparison",
-                        "VFX Particle Kill Method (blue)"
+                        "Spawn Rate Comparison"
                     ],
                     [
                         "VFX Examples",
-                        "Rate Comparison",
-                        "VFX Particle Redirect (red)"
+                        "Spawn Rate Comparison",
+                        "VFX Comparison Kill Method (blue)"
+                    ],
+                    [
+                        "VFX Examples",
+                        "Spawn Rate Comparison",
+                        "VFX Comparison Redirect (red)"
                     ]
                 ]
             ]
@@ -97,14 +106,14 @@
         "PreviewUiComponent": {
             "preview_descriptor": {
                 "is_capture": "0",
-                "camera_type": "2"
+                "camera_type": "1"
             },
             "show_snap_ui": "true",
             "show_sponsored_ui": "false",
             "preview_images_project_config": {
-                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_id": "bundle:Preview\/Images\/Cactus.jpg",
                 "back_preview_is_favorite": "false",
-                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_id": "bundle:Preview\/Images\/Pair 1.jpg",
                 "front_preview_is_favorite": "false",
                 "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
                 "spectacles_preview_is_favorite": "false"
@@ -129,7 +138,8 @@
         "InspectorUiComponent": {
             "collapsedList": [
                 [
-                    "1626043776303680:293178"
+                    "1626043776303680:293178",
+                    "1626091351733074:37955"
                 ]
             ]
         },
@@ -143,7 +153,7 @@
             "active_graph_asset": "-1:-1"
         },
         "VFX::UiComponent": {
-            "active_graph_asset": "1626044653194030:423965"
+            "active_graph_asset": "1624749281547861:428788"
         }
     },
     "model": {
@@ -316,46 +326,6 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
-                },
-                {
-                    "resId": "35",
-                    "uid": "1626044653194030:423965",
-                    "name": "Files\/File66",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "36",
-                    "uid": "1626044653329400:424036",
-                    "name": "Files\/File68",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "37",
-                    "uid": "1626044653414931:424055",
-                    "name": "Files\/File70",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "38",
-                    "uid": "1626044653470410:424078",
-                    "name": "Files\/File72",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "39",
-                    "uid": "1626044653561276:424095",
-                    "name": "Files\/File74.js",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
@@ -383,9 +353,7 @@
                 "1": "1624749364226130:442486",
                 "2": "1624750311355688:611537",
                 "3": "1624750468409986:636952",
-                "4": "1624750484862452:639016",
-                "5": "1626044595997696:417028",
-                "6": "1626044603782123:418040"
+                "4": "1624750484862452:639016"
             }
         },
         "LayerComponent": {
@@ -563,42 +531,6 @@
                 {
                     "k": "65",
                     "v": "Files\/File65.pvr"
-                },
-                {
-                    "k": "66",
-                    "v": "Files\/File66"
-                },
-                {
-                    "k": "67",
-                    "v": "Files\/File67.lsvfx"
-                },
-                {
-                    "k": "68",
-                    "v": "Files\/File68"
-                },
-                {
-                    "k": "69",
-                    "v": "Files\/File69.lsmat"
-                },
-                {
-                    "k": "70",
-                    "v": "Files\/File70"
-                },
-                {
-                    "k": "71",
-                    "v": "Files\/File71.lsmat"
-                },
-                {
-                    "k": "72",
-                    "v": "Files\/File72"
-                },
-                {
-                    "k": "73",
-                    "v": "Files\/File73.lsmat"
-                },
-                {
-                    "k": "74",
-                    "v": "Files\/File74.js"
                 }
             ]
         },
@@ -613,11 +545,11 @@
                 "pathes": [
                     {
                         "k": "982",
-                        "v": "VFX Examples\/Rate Comparison\/VFX Particle Redirect (red).lsvfx"
+                        "v": "VFX Examples\/Spawn Rate Comparison\/VFX Comparison Redirect (red).lsvfx"
                     },
                     {
                         "k": "984",
-                        "v": "VFX Examples\/Rate Comparison\/VFX Particle Kill Method (blue).lsvfx"
+                        "v": "VFX Examples\/Spawn Rate Comparison\/VFX Comparison Kill Method (blue).lsvfx"
                     },
                     {
                         "k": "986",
@@ -649,7 +581,7 @@
                     },
                     {
                         "k": "995",
-                        "v": "VFX Examples\/Rate Comparison"
+                        "v": "VFX Examples\/Spawn Rate Comparison"
                     },
                     {
                         "k": "996",
@@ -658,14 +590,6 @@
                     {
                         "k": "997",
                         "v": "Textures\/Stream"
-                    },
-                    {
-                        "k": "998",
-                        "v": "VFX Examples\/Extrude"
-                    },
-                    {
-                        "k": "999",
-                        "v": "VFX Examples\/Extrude\/VFX Particle Extrude.lsvfx"
                     }
                 ],
                 "hashes": [
@@ -691,7 +615,7 @@
                     },
                     {
                         "k": "982",
-                        "v": "86e5e1dbee5aabeafd488a80f2b0bcfc"
+                        "v": "bb78703dd59c85556cbebff6d15dece6"
                     },
                     {
                         "k": "983",
@@ -699,7 +623,7 @@
                     },
                     {
                         "k": "984",
-                        "v": "24317433f851616261415e970219763d"
+                        "v": "679bfeed0f915a4e9953c10d636a0358"
                     },
                     {
                         "k": "985",
@@ -707,7 +631,7 @@
                     },
                     {
                         "k": "989",
-                        "v": "a0d87556c7198656e62100091cb60fc6"
+                        "v": "c3de6a7a35fffb2bce87aee4e8c30573"
                     },
                     {
                         "k": "990",
@@ -731,7 +655,7 @@
                     },
                     {
                         "k": "999",
-                        "v": "625e90a62cc82b1af5cc86ca071f2649"
+                        "v": "7ecfb09b9644b4df9bd534e22a7d52b8"
                     }
                 ],
                 "publicState": {
@@ -739,7 +663,7 @@
                         "isFolder": "true",
                         "lastModified": "2021-07-12T01:04:22",
                         "name": "Public",
-                        "hash": "9b27c938330d92aa33b9a84dd21a38b6",
+                        "hash": "3cf98481ad9042abe87fc27a7741db8f",
                         "children": [
                             {
                                 "isFolder": "true",
@@ -801,28 +725,28 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2021-07-12T01:04:10",
+                                "lastModified": "2021-07-12T14:01:06",
                                 "name": "VFX Examples",
-                                "hash": "ca6e8e0d26864cfe65fc54dba5c62a52",
+                                "hash": "f334672d06a9a5f9cfcc8a54b6aa82b5",
                                 "children": [
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2021-07-12T01:04:23",
-                                        "name": "Rate Comparison",
-                                        "hash": "745338c0c4555571bae208784eb065a4",
+                                        "lastModified": "2021-07-12T14:08:41",
+                                        "name": "Spawn Rate Comparison",
+                                        "hash": "c913e771a6ca5b2493c1413f4dfdb91f",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2021-07-12T01:04:23",
-                                                "name": "VFX Particle Kill Method (blue).lsvfx",
-                                                "hash": "24317433f851616261415e970219763d",
+                                                "lastModified": "2021-07-12T14:08:41",
+                                                "name": "VFX Comparison Kill Method (blue).lsvfx",
+                                                "hash": "679bfeed0f915a4e9953c10d636a0358",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2021-07-12T01:04:22",
-                                                "name": "VFX Particle Redirect (red).lsvfx",
-                                                "hash": "86e5e1dbee5aabeafd488a80f2b0bcfc",
+                                                "lastModified": "2021-07-12T14:08:40",
+                                                "name": "VFX Comparison Redirect (red).lsvfx",
+                                                "hash": "bb78703dd59c85556cbebff6d15dece6",
                                                 "children": ""
                                             },
                                             {
@@ -836,42 +760,20 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2021-07-12T01:05:20",
+                                        "lastModified": "2021-07-12T14:15:17",
                                         "name": "Morph",
-                                        "hash": "90cfc727e8ffc548233f3335d3acaa96",
+                                        "hash": "0e0287b64e4ca5bfeadf2c78c382ef9d",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2021-07-12T01:05:20",
+                                                "lastModified": "2021-07-12T14:15:17",
                                                 "name": "VFX Particle Morph.lsvfx",
-                                                "hash": "a0d87556c7198656e62100091cb60fc6",
+                                                "hash": "c3de6a7a35fffb2bce87aee4e8c30573",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
                                                 "lastModified": "2021-07-12T00:33:15",
-                                                "name": "folder.lock",
-                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
-                                                "children": ""
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "isFolder": "true",
-                                        "lastModified": "2021-07-12T01:04:30",
-                                        "name": "Extrude",
-                                        "hash": "8123e64b18e5cda407e66fc95aa47afc",
-                                        "children": [
-                                            {
-                                                "isFolder": "false",
-                                                "lastModified": "2021-07-12T01:04:30",
-                                                "name": "VFX Particle Extrude.lsvfx",
-                                                "hash": "625e90a62cc82b1af5cc86ca071f2649",
-                                                "children": ""
-                                            },
-                                            {
-                                                "isFolder": "false",
-                                                "lastModified": "2021-07-12T01:04:04",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -1056,7 +958,7 @@
                         "additional": "",
                         "resources": [
                             {
-                                "name": "Rate Comparison",
+                                "name": "Spawn Rate Comparison",
                                 "type": "0",
                                 "subtype": "-1",
                                 "resourceId": "-1",
@@ -1070,7 +972,7 @@
                                 "additional": "",
                                 "resources": [
                                     {
-                                        "name": "VFX Particle Redirect (red)",
+                                        "name": "VFX Comparison Redirect (red)",
                                         "type": "23",
                                         "subtype": "0",
                                         "resourceId": "14",
@@ -1160,7 +1062,7 @@
                                         ]
                                     },
                                     {
-                                        "name": "VFX Particle Kill Method (blue)",
+                                        "name": "VFX Comparison Kill Method (blue)",
                                         "type": "23",
                                         "subtype": "0",
                                         "resourceId": "20",
@@ -1354,112 +1256,6 @@
                                         ]
                                     }
                                 ]
-                            },
-                            {
-                                "name": "Extrude",
-                                "type": "0",
-                                "subtype": "-1",
-                                "resourceId": "-1",
-                                "dependency": "0",
-                                "hidden": "false",
-                                "uid": "-1:-1",
-                                "fileId": "18446744073709551615",
-                                "originalId": "18446744073709551615",
-                                "publicId": "998",
-                                "source": "",
-                                "additional": "",
-                                "resources": [
-                                    {
-                                        "name": "VFX Particle Extrude",
-                                        "type": "23",
-                                        "subtype": "0",
-                                        "resourceId": "35",
-                                        "dependency": "2",
-                                        "hidden": "false",
-                                        "uid": "1626044653194030:423965",
-                                        "fileId": "66",
-                                        "originalId": "67",
-                                        "publicId": "999",
-                                        "source": "",
-                                        "additional": "",
-                                        "resources": [
-                                            {
-                                                "name": "System 39",
-                                                "type": "0",
-                                                "subtype": "-1",
-                                                "resourceId": "-1",
-                                                "dependency": "1",
-                                                "hidden": "true",
-                                                "uid": "-1:-1",
-                                                "fileId": "18446744073709551615",
-                                                "originalId": "18446744073709551615",
-                                                "publicId": "18446744073709551615",
-                                                "source": "",
-                                                "additional": {
-                                                    "system_id": "39"
-                                                },
-                                                "resources": [
-                                                    {
-                                                        "name": "Rendering",
-                                                        "type": "2",
-                                                        "subtype": "0",
-                                                        "resourceId": "36",
-                                                        "dependency": "1",
-                                                        "hidden": "true",
-                                                        "uid": "1626044653329400:424036",
-                                                        "fileId": "68",
-                                                        "originalId": "69",
-                                                        "publicId": "18446744073709551615",
-                                                        "source": "",
-                                                        "additional": ""
-                                                    },
-                                                    {
-                                                        "name": "Feedback",
-                                                        "type": "2",
-                                                        "subtype": "0",
-                                                        "resourceId": "37",
-                                                        "dependency": "1",
-                                                        "hidden": "true",
-                                                        "uid": "1626044653414931:424055",
-                                                        "fileId": "70",
-                                                        "originalId": "71",
-                                                        "publicId": "18446744073709551615",
-                                                        "source": "",
-                                                        "additional": ""
-                                                    },
-                                                    {
-                                                        "name": "Simulation",
-                                                        "type": "2",
-                                                        "subtype": "0",
-                                                        "resourceId": "38",
-                                                        "dependency": "1",
-                                                        "hidden": "true",
-                                                        "uid": "1626044653470410:424078",
-                                                        "fileId": "72",
-                                                        "originalId": "73",
-                                                        "publicId": "18446744073709551615",
-                                                        "source": "",
-                                                        "additional": ""
-                                                    },
-                                                    {
-                                                        "name": "Managing",
-                                                        "type": "4",
-                                                        "subtype": "0",
-                                                        "resourceId": "39",
-                                                        "dependency": "1",
-                                                        "hidden": "true",
-                                                        "uid": "1626044653561276:424095",
-                                                        "fileId": "74",
-                                                        "originalId": "18446744073709551615",
-                                                        "publicId": "18446744073709551615",
-                                                        "source": "\/private\/var\/folders\/by\/0dhhk3j13j560jxj8p3x4rzr0000gn\/T\/Lens Studio-JDORRq\/\/system\/\/emergencyFiles\/emergencyJs.js",
-                                                        "additional": ""
-                                                    }
-                                                ]
-                                            }
-                                        ]
-                                    }
-                                ]
                             }
                         ]
                     }
@@ -1467,11 +1263,7 @@
             }
         },
         "InspectorController": {
-            "selection": {
-                "objects": [
-                    "1626044595997696:417028"
-                ]
-            }
+            "selection": ""
         },
         "EffectsController": {
             "1": "",
