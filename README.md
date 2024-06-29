@@ -4,7 +4,7 @@ A python script that generates data for Lens Studio's VFX Editor.
 
 <br/><br/>
   
-![Particle Redirect morph](https://maxvanleeuwen.com/wp-content/uploads/morph.gif)
+![Particle Redirect morph](https://maxvanleeuwen.com/wp-content/uploads/morph.gif) ![Matte 1](https://github.com/max-van-leeuwen/SnapLensStudio-ParticleRedirect/blob/main/Particle%20Redirect/Python/1.png?raw=true) ![Matte 2](https://github.com/max-van-leeuwen/SnapLensStudio-ParticleRedirect/blob/main/Particle%20Redirect/Python/2.png?raw=true)
 
 
 <br/><br/>
